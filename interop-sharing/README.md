@@ -12,7 +12,7 @@ Any entity that would like to share their OSCAL content should follow the below 
 3. Populate the folder with OSCAL files. 
     - *NOTE*: If you cannot upload the files you'd like to share, provide links to the files in your results tracker (see below)
     - Try to keep organization as flat/simple as possible for ease of use (many tools ingest through command-line interfaces).
-5. Create a results tracker markdown file for others to track their results ([see template here!](./results-tracker-template.md))
+5. Create a results tracker markdown file for others to track their results ([see template here!](./results-tracker-TEMPLATE.md))
     - Recommended: provide a copy-pastable results entry (see template for example)
 6. Submit a PR.
 
