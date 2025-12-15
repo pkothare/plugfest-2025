@@ -135,12 +135,9 @@ Any overall notes or discussion about the content's interoperability here.
 
 # Interoperability Results for Comply0
 
-**Short** Web application to manage OSCAL documents. Validated against v0.1.0-preview.5 available
-at https://app.dev.comply0.com. Only JSON files are accepted by the tool. Currently the version
-can only process JSON catalogs and profiles.  
-To register for an account or instance of the application please contact hello@oscal.com
-
-Any overall notes or discussion about the content's interoperability here.
+Web application to manage OSCAL documents. Validated against v0.1.0-preview.5 available at https://app.dev.comply0.com.
+Only JSON files are accepted by the tool. Currently the version can only process JSON catalogs and profiles.  
+To register for an account or request instance of the application please go to: https://www.comply0.com/
 
 ### ./nist.gov
 | File | Tested? | Validates? | Additional Execution/Processing Results | Notes/Errors |
