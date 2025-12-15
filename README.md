@@ -3,7 +3,7 @@
 Welcome to the hub for the technical hackathon portion of the OSCAL Foundation 2025 PlugFest event! 
 
 > [!NOTE]
-> Panels, speakers, and presentations will start at or around 1pm on the Zoom call, this page is for participants (or those who wish to become participants) in the interoperability testing and hackathon activities.
+> **Panels, speakers, and presentations will start at or around 1pm on the Zoom call**, this page is for participants (or those who wish to become participants) in the interoperability testing and hackathon activities.
 
 <br/>
 
@@ -35,4 +35,4 @@ Our goal is to bring together OSCAL technical experts and implementers for three
 > [!NOTE]
 > This event is primarily in-person, but we welcome remote participants to [join our Slack channel](https://join.slack.com/t/oscalfoundation/shared_invite/zt-3koy72rw2-Q0~6Z7cSlD7_mCfTiVvSKg) and jump in where they can.
 
-To get started with interoperability testing [click here for instructions!](interop-sharing/README.md) or head to the "interop-sharing" folder in this repo.
+To get started with interoperability testing [click here for instructions!](interop-sharing/) or head to the "interop-sharing" folder in this repo.
